@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "88AABDcYwhRTUvV1eiArhDRwt/caZbuYMYNyDf20P9k2hqgyV+bD/kOXPADm7ixMBnmEuKesalxEkRmUQ6SYIQ==",
+  "success": true,
+  "projectFilePath": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Mango.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.1\\microsoft.identitymodel.abstractions.7.6.1.nupkg.sha512",
+    "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.1\\microsoft.identitymodel.jsonwebtokens.7.6.1.nupkg.sha512",
+    "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.1\\microsoft.identitymodel.logging.7.6.1.nupkg.sha512",
+    "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.1\\microsoft.identitymodel.tokens.7.6.1.nupkg.sha512",
+    "C:\\Users\\lehun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lehun\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.1\\system.identitymodel.tokens.jwt.7.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
