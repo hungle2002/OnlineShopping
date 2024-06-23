@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "88AABDcYwhRTUvV1eiArhDRwt/caZbuYMYNyDf20P9k2hqgyV+bD/kOXPADm7ixMBnmEuKesalxEkRmUQ6SYIQ==",
+  "dgSpecHash": "ckSSDAFExQNjAm0vsgLkIHhMOz6Ta+qERxLVWJ9MsFV61CnXx0nSjS+oYTfHBrk+fsyttVDq9f/u7t0FRHP62g==",
   "success": true,
   "projectFilePath": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lehun\\.nuget\\packages\\identitymodel\\7.0.0\\identitymodel.7.0.0.nupkg.sha512",
     "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.1\\microsoft.identitymodel.abstractions.7.6.1.nupkg.sha512",
     "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.1\\microsoft.identitymodel.jsonwebtokens.7.6.1.nupkg.sha512",
     "C:\\Users\\lehun\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.1\\microsoft.identitymodel.logging.7.6.1.nupkg.sha512",

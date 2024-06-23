@@ -36,3 +36,5 @@ E:\Coding\workspace\C#\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.
 E:\Coding\workspace\C#\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 E:\Coding\workspace\C#\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 E:\Coding\workspace\C#\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Coding\workspace\C#\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
+E:\Coding\workspace\C#\Mango\Mango.Web\bin\Debug\net8.0\IdentityModel.dll
