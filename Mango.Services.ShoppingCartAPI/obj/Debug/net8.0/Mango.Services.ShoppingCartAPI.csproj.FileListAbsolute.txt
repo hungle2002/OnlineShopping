@@ -137,3 +137,5 @@ E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.pdb
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Mango.Services.ShoppingCartAPI.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.sourcelink.json
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
