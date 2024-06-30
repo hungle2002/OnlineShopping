@@ -12,4 +12,6 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.6.1" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4lib_4bootstrap_4dist_4css_4bootstrap-reboot_1rtl_1min_1css_1map__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
 </Project>

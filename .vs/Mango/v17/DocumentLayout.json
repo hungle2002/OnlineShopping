@@ -11,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|e:\\coding\\workspace\\c#\\mango\\mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65A12BD3-0981-4F2B-867C-EB1554E6FC6F}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|e:\\coding\\workspace\\c#\\mango\\mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A12BD3-0981-4F2B-867C-EB1554E6FC6F}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A12BD3-0981-4F2B-867C-EB1554E6FC6F}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|e:\\coding\\workspace\\c#\\mango\\mango.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A12BD3-0981-4F2B-867C-EB1554E6FC6F}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|e:\\coding\\workspace\\c#\\mango\\mango.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|e:\\coding\\workspace\\c#\\mango\\mango.web\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|e:\\coding\\workspace\\c#\\mango\\mango.web\\service\\iservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9B56CD-49A7-4C01-A160-DD7DFB0E701F}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +58,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CouponController.cs",
-              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CouponController.cs",
-              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CouponController.cs",
-              "RelativeToolTip": "Mango.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:13:25.34Z",
+              "WhenOpened": "2024-06-30T10:07:09.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Mango.Web\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCIAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Models\\CartHeaderDto.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "Mango.Web\\Models\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:56:49.281Z",
+              "WhenOpened": "2024-06-30T10:05:26.256Z",
               "EditorCaption": ""
             },
             {
@@ -74,9 +90,61 @@
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
               "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Views\\Cart\\CartIndex.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Cart\\CartIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T16:00:15.04Z",
+              "WhenOpened": "2024-06-30T09:45:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:44:23.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\CartService.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Service\\CartService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:42:44.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Service\\IService\\ICartService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\ICartService.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Web\\Service\\IService\\ICartService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:42:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "E:\\Coding\\workspace\\C#\\Mango\\Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwLUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:40:47.967Z",
               "EditorCaption": ""
             }
           ]

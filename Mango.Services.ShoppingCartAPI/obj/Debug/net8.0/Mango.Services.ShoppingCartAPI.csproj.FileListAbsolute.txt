@@ -139,3 +139,9 @@ E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Man
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Mango.Services.ShoppingCartAPI.dll
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.sourcelink.json
 E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.dll
+E:\Coding\workspace\C#\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.pdb
